@@ -14,8 +14,8 @@
 </div>
 
 ### Обо мне
-✧ **Fullstack** разработчик с опытом >2 лет на практических и учебных проектах
-✧ Связь со мной: [Telegram](https://t.me/blvdesgrxve), [email](mailto:neendtochno@gmail.com)
+- ✧ **Fullstack** разработчик с опытом >2 лет на практических и учебных проектах
+- ✧ Связь со мной: [Telegram](https://t.me/blvdesgrxve), [email](mailto:neendtochno@gmail.com)
 
 
 # Tech Stack:

@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <h1>༒︎ blvdesgrxve ༒︎</h1>
-  <h2>Петровский колледж - 4 курс</h2>
-  <h3>Fullstack Developer</h3>
+  <h2>Fullstack Developer</h2>
 </div>
 
 <div id="socials" align="center">
@@ -14,8 +13,8 @@
 </div>
 
 ### Обо мне
-- ✧ **Fullstack** разработчик с опытом >2 лет на практических и учебных проектах
-- ✧ Связь со мной: [Telegram](https://t.me/blvdesgrxve), [email](mailto:neendtochno@gmail.com)
+- ✧ **Fullstack** developer with >2 years of experience in practical and educational projects
+- ✧ Contact with me: [Telegram](https://t.me/blvdesgrxve), [email](mailto:neendtochno@gmail.com)
 
 
 # Tech Stack:
